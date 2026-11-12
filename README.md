@@ -18,3 +18,9 @@ Hi
 - I enjoy the humanities: linguistics, psychology, and philosophy
 - Languages: Japanese / English
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ethan&fontSize=60&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?pause=1000&center=true&width=500&lines=Anime+%7C+Manga+%7C+Light+Novels;IT+-+Software+%26+Hardware;VTuber+%7C+Music+%7C+Games;Linguistics+%7C+Psychology+%7C+Philosophy" />
+
