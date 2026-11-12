@@ -6,7 +6,7 @@
 - 📺 VTuberも見ています
 - 📚 人文科学にも興味があります：言語学、心理学、哲学
 - 🌐 言語：日本語 / 英語
-
+- 🎮 この世界はゲームである https://www.headless.org/english-welcome.htm
 ---
 
 ## English
@@ -17,7 +17,7 @@ Hi
 - I also watch VTubers
 - I enjoy the humanities: linguistics, psychology, and philosophy
 - Languages: Japanese / English
-
+- This world is a game https://www.headless.org/english-welcome.htm
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&fontSize=60&animation=fadeIn" width="100%"/>
